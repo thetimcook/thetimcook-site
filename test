@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <style>
+        body, html {
+            background-color: rgba(0,0,0,0);
+        }
+    </style>
+</head>
+
+<body>
+    <h1>test</h1>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tortor nunc, tempor vitae tortor ac, commodo pretium purus. Morbi maximus augue ante, vitae volutpat tortor posuere quis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed lobortis volutpat erat, non ornare elit iaculis et. Proin et bibendum libero. Pellentesque eu dictum tortor, nec ullamcorper tortor. Nam vestibulum, magna eget faucibus molestie, mi dolor ultricies nulla, et congue tellus mauris porttitor lorem. Quisque et elit lorem.
+</p>
+</body>
+
+</html>
